@@ -1,3 +1,3 @@
-num = int(input ("Enter the number: "))      
+n = int(input ("Enter the number: "))      
 for count in range(1, 11):      
-   print (num, 'x', count, '=', num * count)
+   print (n, 'x', count, '=', n * count)
